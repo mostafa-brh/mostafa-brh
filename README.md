@@ -42,7 +42,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="visualstudio logo"  />
   <img width="12" />
