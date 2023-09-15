@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 front end developer and 🎨 designer</p>
+<p align="left">💻 front end developer and 🎨 graphic designer</p>
 
 ###
 
