@@ -76,8 +76,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-brh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mostafa-brh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafa-brh&show_icons=true&theme=dracula" alt="Mostafa's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-brh&layout=compact&theme=dracula" alt="Mostafa's Top Languages" />
 </div>
+
 
 ###
