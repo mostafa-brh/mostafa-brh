@@ -76,8 +76,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafa-brh&show_icons=true&theme=dracula" alt="Mostafa's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-brh&layout=compact&theme=dracula" alt="Mostafa's Top Languages" />
+  <a href="https://stats.hyo.dev/stats/mostafa-brh"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=mostafa-brh" width="600" /></a>
 </div>
 
 
