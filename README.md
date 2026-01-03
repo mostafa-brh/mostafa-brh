@@ -71,13 +71,13 @@
 
 ###
 
-<h2 align="left">My Github</h2>
+<!-- <h2 align="left">My Github</h2>
 
 ###
 
 <div align="center">
   <a href="https://stats.hyo.dev/stats/mostafa-brh"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=mostafa-brh" width="600" /></a>
-</div>
+</div> -->
 
 
 ###
